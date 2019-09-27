@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;Serialization/src&apos;&#x0D;&#x0A;- Original project: &apos;Swing26-Tables&apos;&#x0D;&#x0A;- Destination element: &apos;Serialization/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Swing26-Tables/src/controller&#x0D;&#x0A;     Swing26-Tables/src/model&#x0D;&#x0A;     Swing26-Tables/src/gui" description="Copy packages" destination="=Serialization/src" element1="/src&lt;controller" element2="/src&lt;model" element3="/src&lt;gui" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1569208504155" version="1.0"/>
+</session>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Serialization&apos; to &apos;Swing 27-Serialization&apos;" description="Rename resource &apos;Serialization&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Serialization" name="Swing 27-Serialization" stamp="1569208860733" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Swing 27-Serialization&apos; to &apos;Swing27-Serialization&apos;" description="Rename resource &apos;Swing 27-Serialization&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Swing 27-Serialization" name="Swing27-Serialization" stamp="1569208874584" updateReferences="true"/>
+</session>

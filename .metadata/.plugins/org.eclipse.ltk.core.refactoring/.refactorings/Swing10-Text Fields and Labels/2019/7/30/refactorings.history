@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 6 elements to &apos;Swing11-GridBagLayout/src&apos;&#x0D;&#x0A;- Original project: &apos;Swing10-Text Fields and Labels&apos;&#x0D;&#x0A;- Destination element: &apos;Swing11-GridBagLayout/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Toolbar.java&#x0D;&#x0A;     FormPanel.java&#x0D;&#x0A;     MainFrame.java&#x0D;&#x0A;     App.java&#x0D;&#x0A;     StringListener.java&#x0D;&#x0A;     TextPanel.java" description="Copy compilation units" destination="=Swing11-GridBagLayout/src" element1="/src&lt;{Toolbar.java" element2="/src&lt;{FormPanel.java" element3="/src&lt;{MainFrame.java" element4="/src&lt;{App.java" element5="/src&lt;{StringListener.java" element6="/src&lt;{TextPanel.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1563818676027" units="6" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;Swing6-Communications/src&apos;&#x0D;&#x0A;- Original project: &apos;Swing5-Toolbars&apos;&#x0D;&#x0A;- Destination element: &apos;Swing6-Communications/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     MainFrame.java&#x0D;&#x0A;     App.java&#x0D;&#x0A;     TextPanel.java&#x0D;&#x0A;     Toolbar.java" description="Copy compilation units" destination="=Swing6-Communications/src" element1="/src&lt;{MainFrame.java" element2="/src&lt;{App.java" element3="/src&lt;{TextPanel.java" element4="/src&lt;{Toolbar.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1563544412559" units="4" version="1.0"/>
+</session>
